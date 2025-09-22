@@ -33,7 +33,7 @@ None.
 
 ### 🔧 Tech Stack
 
-### Python, OpenCV, NumPy, Keras, TensorFlow, cProfile, pstats, SnakeViz, Raspberry Pi 4B, Custom CNNs, Image Preprocessing, Contour Detection, Real-Time Object Recognition, Test Tech, Custom Solutions, Prototyping, Research, Testing, Optimization, Speed Optimization
+Python, OpenCV, NumPy, Keras, TensorFlow, cProfile, pstats, SnakeViz, Raspberry Pi 4B, Custom CNNs, Image Preprocessing, Contour Detection, Real-Time Object Recognition, Test Tech, Custom Solutions, Prototyping, Research, Testing, Optimization, Speed Optimization
 
 ---
 
@@ -68,20 +68,6 @@ None.
 </p>
 
 ---
-
-### 🎥 Video Demonstration
-
-<p align="center">
-  <a href="https://youtu.be/p0wAyzASfN0">
-    <img src="https://img.youtube.com/vi/p0wAyzASfN0/0.jpg"
-         alt="Watch the demo"
-         width="640"
-         height="1000">
-  </a>
-</p>
-
----
-
 
 ### 🎥 Video Demonstration
 
