@@ -40,34 +40,48 @@ None.
 ### 📸 Project Snapshot
 
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2021.02.07_GitHub_PRJ_Custom-Object-Detection-for-Mobile-Robots/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_1.png?raw=true"
-       alt="Custom Object Detection Preview 1"
-       width="640"
+  <img src="https://github.com/IvanSicaja/2021.02.07_GitHub_PRJ_Custom-Object-Detection-for-Mobile-Robots/blob/main/publish/2.0_Thumbnail_1.png?raw=true" 
+       alt="Object Detection Preview 1" 
+       width="640" 
        height="360">
 </p>
 
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2021.02.07_GitHub_PRJ_Custom-Object-Detection-for-Mobile-Robots/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_2.png?raw=true"
-       alt="Custom Object Detection Preview 2"
-       width="640"
+  <img src="https://github.com/IvanSicaja/2021.02.07_GitHub_PRJ_Custom-Object-Detection-for-Mobile-Robots/blob/main/publish/2.0_Thumbnail_2.png?raw=true" 
+       alt="Object Detection Preview 2" 
+       width="640" 
        height="360">
 </p>
 
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2021.02.07_GitHub_PRJ_Custom-Object-Detection-for-Mobile-Robots/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_3.png?raw=true"
-       alt="Custom Object Detection Preview 3"
-       width="640"
+  <img src="https://github.com/IvanSicaja/2021.02.07_GitHub_PRJ_Custom-Object-Detection-for-Mobile-Robots/blob/main/publish/2.0_Thumbnail_3.png?raw=true" 
+       alt="Object Detection Preview 3" 
+       width="640" 
        height="360">
 </p>
 
 <p align="center">
-  <img src="https://github.com/IvanSicaja/2021.02.07_GitHub_PRJ_Custom-Object-Detection-for-Mobile-Robots/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_and_captions/2.0_Thumbnail_4.png?raw=true"
-       alt="Custom Object Detection Preview 4"
-       width="640"
+  <img src="https://github.com/IvanSicaja/2021.02.07_GitHub_PRJ_Custom-Object-Detection-for-Mobile-Robots/blob/main/publish/2.0_Thumbnail_4.png?raw=true" 
+       alt="Object Detection Preview 4" 
+       width="640" 
        height="360">
 </p>
 
 ---
+
+### 🎥 Video Demonstration
+
+<p align="center">
+  <a href="https://youtu.be/p0wAyzASfN0">
+    <img src="https://img.youtube.com/vi/p0wAyzASfN0/0.jpg"
+         alt="Watch the demo"
+         width="640"
+         height="1000">
+  </a>
+</p>
+
+---
+
 
 ### 🎥 Video Demonstration
 
